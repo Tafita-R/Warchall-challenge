@@ -5,7 +5,7 @@ Je vais vous expliquer les étapes pour obtenir les mots de passe de Wechall niv
 - Vous verrez l'adresse IP fournie pour vous connecter via SSH .Exemple: ssh -p 125643 rakoto@warchall.net
 - Ouvrez Cmd et connectez-vous avec les informations fournies. Exemple: Login: Rakoto rakoto@192.168.178.128's password: rakoto
 
-*Résolution des niveaux : randria@warchall.net.
+*Résolution des niveaux : rakoto@warchall.net.
 - Une fois connecté, entrez l'adresse IP de Warchall, c'est-à-dire « ssh -p 125643 rakoto@warchall.net »
 - Saisissez le mot de passe warchall, et maintenant vous pouvez résoudre les niveaux.
 
